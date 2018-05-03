@@ -1,0 +1,6 @@
+### Eclipse Patch ###
+# Eclipse Core		
+.project
+.classpath
+.settings/
+bin/
